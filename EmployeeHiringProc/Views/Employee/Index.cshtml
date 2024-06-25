@@ -1,0 +1,76 @@
+﻿@model IEnumerable<EmployeeHiringProc.Models.Employee>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-5">Product Details</h2>
+    <br />
+    <a asp-action="Create" asp-controller="Employee">Add Employees</a>
+    <br />
+    <br />
+
+   <div class="table-responsive">
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th colspan="6">Personal Information</th>
+                <th colspan="5">Employment Details</th>
+                <th colspan="7">Education</th>
+            </tr>
+            <tr>
+                <!-- Personal Information -->
+                <th>Employee Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>DOB</th>
+                <th>Address</th>
+                <!-- Employment Details -->
+                <th>Field Of Study</th>
+                <th>Current Employer</th>
+                <th>Areas Of Expertise</th>
+                <th>Upload File</th>
+                <th>Certificate</th>
+                <!-- Education -->
+                <th>Gender</th>
+                <th>Grade</th>
+                <th>Subject</th>
+                <th>Degree</th>
+                <th>Experience</th>
+                <th>Experience Additional</th>
+                <th>Teaching Levels</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <!-- Personal Information -->
+                    <td>@item.EmpId</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.Email</td>
+                    <td>@item.Dob</td>
+                    <td>@item.Address</td>
+                    <!-- Employment Details -->
+                    <td>@item.FieldOfStudy</td>
+                    <td>@item.CurrentEmployer</td>
+                    <td>@item.AreasOfExpertise</td>
+                    <td>@item.UploadFile</td>
+                    <td>@item.Certificate</td>
+                    <!-- Education -->
+                    <td>@item.Gender.Gender</td>
+                    <td>@item.Grade.Grade</td>
+                    <td>@item.Subject.Subjects</td>
+                    <td>@item.Degree.Degree</td>
+                    <td>@item.Experience.Experience</td>
+                    <td>@item.ExperienceIdAddNavigation.ExperienceAdd</td>
+                    <td>@item.TeachingLvls.TeachingLevels</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+</>

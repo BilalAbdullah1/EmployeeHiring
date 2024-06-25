@@ -1,35 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "F:\\new works\\EmployeeHiringProc\\EmployeeHiringProc\\EmployeeHiringProc.csproj": {}
+    "C:\\Users\\ADV\\Source\\Repos\\EmployeeHiring\\EmployeeHiringProc\\EmployeeHiringProc.csproj": {}
   },
   "projects": {
-    "F:\\new works\\EmployeeHiringProc\\EmployeeHiringProc\\EmployeeHiringProc.csproj": {
+    "C:\\Users\\ADV\\Source\\Repos\\EmployeeHiring\\EmployeeHiringProc\\EmployeeHiringProc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\new works\\EmployeeHiringProc\\EmployeeHiringProc\\EmployeeHiringProc.csproj",
+        "projectUniqueName": "C:\\Users\\ADV\\Source\\Repos\\EmployeeHiring\\EmployeeHiringProc\\EmployeeHiringProc.csproj",
         "projectName": "EmployeeHiringProc",
-        "projectPath": "F:\\new works\\EmployeeHiringProc\\EmployeeHiringProc\\EmployeeHiringProc.csproj",
-        "packagesPath": "C:\\Users\\bilal.zaheer\\.nuget\\packages\\",
-        "outputPath": "F:\\new works\\EmployeeHiringProc\\EmployeeHiringProc\\obj\\",
+        "projectPath": "C:\\Users\\ADV\\Source\\Repos\\EmployeeHiring\\EmployeeHiringProc\\EmployeeHiringProc.csproj",
+        "packagesPath": "C:\\Users\\ADV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADV\\Source\\Repos\\EmployeeHiring\\EmployeeHiringProc\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bilal.zaheer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "http://137.59.226.222:8023/nuget": {},
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -78,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

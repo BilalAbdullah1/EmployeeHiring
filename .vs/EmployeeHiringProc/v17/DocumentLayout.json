@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|c:\\users\\adv\\source\\repos\\employeehiring\\employeehiringproc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|solutionrelative:employeehiringproc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|c:\\users\\adv\\source\\repos\\employeehiring\\employeehiringproc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|solutionrelative:employeehiringproc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|c:\\users\\adv\\source\\repos\\employeehiring\\employeehiringproc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|solutionrelative:employeehiringproc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|c:\\users\\adv\\source\\repos\\employeehiring\\employeehiringproc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|solutionrelative:employeehiringproc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|c:\\users\\adv\\source\\repos\\employeehiring\\employeehiringproc\\models\\availibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|solutionrelative:employeehiringproc\\models\\availibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|c:\\users\\adv\\source\\repos\\employeehiring\\employeehiringproc\\models\\additionalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FA0798-F4C9-46C4-A016-A46BFDC24725}|EmployeeHiringProc\\EmployeeHiringProc.csproj|solutionrelative:employeehiringproc\\models\\additionalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 245,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeHiringProc\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmployeeHiringProc\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAUwMUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:15:08.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeHiringProc\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeHiringProc\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:15:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeHiringProc\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeHiringProc\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAhwEoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:15:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeHiringProc\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeHiringProc\\Models\\Employee.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIA7wCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:15:08.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Availibility.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Models\\Availibility.cs",
+              "RelativeDocumentMoniker": "EmployeeHiringProc\\Models\\Availibility.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Models\\Availibility.cs",
+              "RelativeToolTip": "EmployeeHiringProc\\Models\\Availibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:15:08.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdditionalInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Models\\AdditionalInformation.cs",
+              "RelativeDocumentMoniker": "EmployeeHiringProc\\Models\\AdditionalInformation.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\EmployeeHiring\\EmployeeHiringProc\\Models\\AdditionalInformation.cs",
+              "RelativeToolTip": "EmployeeHiringProc\\Models\\AdditionalInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:15:08.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
